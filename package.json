@@ -1,0 +1,11 @@
+{
+  "name": "firstbot",
+  "version": "1.0.1",
+  "dependencies": {
+    "telegraf": "^4.7.0",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
